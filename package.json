@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/monokai (-s-l)",
+  "repository": "https://github.com/thecontstruct/monokai-custom-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
