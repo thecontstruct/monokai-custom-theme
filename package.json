@@ -1,7 +1,7 @@
 {
   "name": "monokai-sl",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Monokai theme based on Monokai (SL) for TextMate",
   "keywords": [
     "syntax",
